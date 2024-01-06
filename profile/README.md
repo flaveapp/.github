@@ -7,6 +7,10 @@ Snap. Eat. Earn.
 - [Home](https://flave.app/)
 - [Partner](https://partner.flave.app)
 
+## Mobile Apps
+- [iOS App](https://apps.apple.com/us/app/flave-app/id1485077249)
+- [Android App](https://play.google.com/store/apps/details?id=com.flave.android)
+
 ## Social Media
 - [Twitter](https://twitter.com/FlaveApp)
 - [Instagram](https://www.instagram.com/flaveapp)
