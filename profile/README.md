@@ -8,8 +8,8 @@ Snap. Eat. Earn.
 - [Partner](https://partner.flave.app)
 
 ## Mobile Apps
-- [iOS App](https://apps.apple.com/us/app/flave-app/id1485077249)
-- [Android App](https://play.google.com/store/apps/details?id=com.flave.android)
+- [iOS](https://apps.apple.com/us/app/flave-app/id1485077249)
+- [Android](https://play.google.com/store/apps/details?id=com.flave.android)
 
 ## Social Media
 - [Twitter](https://twitter.com/FlaveApp)
@@ -18,4 +18,3 @@ Snap. Eat. Earn.
 - [LinkedIn](https://www.linkedin.com/company/flaveapp)
 
 Contact us at [info@flave.app](mailto:info@flave.app)
-
