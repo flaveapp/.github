@@ -1,7 +1,7 @@
 # Flave
 Snap. Eat. Earn.  
 
-<img src="https://storage.googleapis.com/flave_website_assets/images/favicon-inverted.png" alt="Flave logo" width="30"/>
+<img src="https://storage.googleapis.com/flave_website_assets/images/flave-icon.png" alt="Flave logo" width="30"/>
 
 ## Websites
 - [Home](https://flave.app/)
