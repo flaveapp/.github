@@ -1,6 +1,8 @@
 # Flave
-Snap. Eat. Earn.  
-:camera_flash: :plate_with_cutlery: :dollar:
+
+Snap. Eat. Earn.
+
+Earn rewards for photos of food at local restaurants
 
 ## Websites
 - [Home](https://flave.app/)
