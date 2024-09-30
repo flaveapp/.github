@@ -1,6 +1,7 @@
 # Flave
 Snap. Eat. Earn.  
-
+:camera_flash: :plate_with_cutlery: :dollar:
+ 
 <img src="https://storage.googleapis.com/flave_website_assets/images/flave-icon.png" alt="Flave logo" width="30"/>
 
 ## Websites
