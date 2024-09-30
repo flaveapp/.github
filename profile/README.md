@@ -2,17 +2,17 @@
 
 Snap. Eat. Earn.
 
-Earn rewards for photos of food at local restaurants
+Earn rewards for photos of food at local restaurants.
 
-## Websites
+### Websites
 - [Home](https://flave.app/)
 - [Partner](https://partner.flave.app)
 
-## Mobile Apps
+### Mobile Apps
 - [iOS](https://apps.apple.com/us/app/flave-app/id1485077249)
 - [Android](https://play.google.com/store/apps/details?id=com.flave.android)
 
-## Social Media
+### Social Media
 - [Twitter](https://twitter.com/FlaveApp)
 - [Instagram](https://www.instagram.com/flaveapp)
 - [Facebook](https://www.facebook.com/FlaveApp)
