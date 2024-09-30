@@ -1,8 +1,6 @@
 # Flave
 Snap. Eat. Earn.  
 :camera_flash: :plate_with_cutlery: :dollar:
- 
-<img src="https://storage.googleapis.com/flave_website_assets/images/flave-icon.png" alt="Flave logo" width="30"/>
 
 ## Websites
 - [Home](https://flave.app/)
@@ -17,5 +15,4 @@ Snap. Eat. Earn.
 - [Instagram](https://www.instagram.com/flaveapp)
 - [Facebook](https://www.facebook.com/FlaveApp)
 - [LinkedIn](https://www.linkedin.com/company/flaveapp)
-
-Contact us at [info@flave.app](mailto:info@flave.app)
+- [Email](mailto:info@flave.app)
