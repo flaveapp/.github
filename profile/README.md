@@ -9,12 +9,12 @@ Earn rewards for photos of food at local restaurants.
 - [Partner](https://partner.flave.app)
 
 ### Mobile Apps
-- [iOS](https://apps.apple.com/us/app/flave-app/id1485077249)
 - [Android](https://play.google.com/store/apps/details?id=com.flave.android)
+- [iOS](https://apps.apple.com/us/app/flave-app/id1485077249)
 
 ### Social Media
-- [Twitter](https://twitter.com/FlaveApp)
-- [Instagram](https://www.instagram.com/flaveapp)
-- [Facebook](https://www.facebook.com/FlaveApp)
-- [LinkedIn](https://www.linkedin.com/company/flaveapp)
 - [Email](mailto:info@flave.app)
+- [Facebook](https://www.facebook.com/FlaveApp)
+- [Instagram](https://www.instagram.com/flaveapp)
+- [LinkedIn](https://www.linkedin.com/company/flaveapp)
+- [Twitter](https://twitter.com/FlaveApp)
